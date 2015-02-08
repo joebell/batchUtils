@@ -1,0 +1,1 @@
+bsub -W 12:00 -q interactive -R "rusage[mem=32768]" matlab -nosplash -nodesktop

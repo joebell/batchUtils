@@ -1,0 +1,2 @@
+bsub -W 12:00 -q interactive bash
+

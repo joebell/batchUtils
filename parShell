@@ -1,0 +1,1 @@
+bsub -W 12:00 -q interactive -n 12 matlab -nosplash -nodesktop
